@@ -1,5 +1,5 @@
 # Site settings
-title: !({{ site.url }}/img/vis_en_256.png)
+title: ({{ site.url }}/img/vis_en_256.png)
 email: info@visvisuals.com
 url: https://visvisuals.com
 description: "VIS will help you to visualize your creations!"
